@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Iyad Abed</h1>
-<h3 align="center">I am a Junior . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
+<h1 align="center">Hi , I'm Iyad Abed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Develper;Always+Learning+New+Things+" alt="Typing SVG" /></a>
+</p> 
+<hr/>
+<h4 align="center">I am a Junior . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 
-- 🌱 I’m currently learning **Angular**
+<br/>
 
-- 📫 How to reach me **iyadrabed@gmail.com**
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking for work as a full-stack developer
+- 📫 How to reach me iyadrabed@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
