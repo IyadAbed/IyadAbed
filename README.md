@@ -8,7 +8,7 @@
 <br/>
 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning ThreeJs
 - 💞️ I’m looking for work as a full-stack developer
 - 📫 How to reach me iyadrabed@gmail.com
 
